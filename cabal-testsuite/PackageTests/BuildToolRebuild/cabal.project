@@ -1,0 +1,2 @@
+packages: client
+optional-packages: pre-proc-1, pre-proc-2
